@@ -1,0 +1,4 @@
+kind: Command
+binPath: command.sh
+description: Prints hello world in different languages
+
