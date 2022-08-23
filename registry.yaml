@@ -2,4 +2,4 @@ entries:
   - name: hello
     url: https://github.com/g2a-com/klio-example-command/releases/download/v1.0.0/hello-1.0.0.tar.gz
     version: 1.0.0
-    checksum: sha256-67b9c066c65f29fa394f1cfe20ba9efd1cdacebbfedacd1b3570fbdf44812826
+    checksum: sha256-ea4a5b81f52d73dc890e75438420abd7f10a60da76a1f1044c6e4416f5320f91
