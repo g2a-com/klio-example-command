@@ -2,4 +2,4 @@ entries:
   - name: hello
     url:  https://api.github.com/repos/g2a-com/klio-example-command/releases/assets/75639016
     version: 1.0.0
-    checksum: sha256-ea4a5b81f52d73dc890e75438420abd7f10a60da76a1f1044c6e4416f5320f91
+    checksum: sha256-504f7780a4ceff91ee3b3d7c86dd8690b9b4182f6b1e8a3177a6891c48309fa6
